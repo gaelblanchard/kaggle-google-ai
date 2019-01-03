@@ -15,3 +15,4 @@ Kaggle Google AI contest
 
 # Links
 * [Kaggle Notebook](https://www.kaggle.com/gaelblanch/fold-two-doodler6?scriptVersionId=7821082)
+  * Contains the final round of training. To receive final score i performed ensemble modelling
